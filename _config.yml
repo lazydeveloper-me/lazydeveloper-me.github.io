@@ -1,0 +1,15 @@
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+
+baseurl: ""
+
+defaults:
+    # _posts
+    - scope:
+        path: "_posts"
+        #type: posts
+      values:
+        layout: post
