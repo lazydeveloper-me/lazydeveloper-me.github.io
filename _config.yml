@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
 
-baseurl: ""
+baseurl: "blog"
 
 defaults:
     # _posts
