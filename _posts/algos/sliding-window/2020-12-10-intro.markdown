@@ -3,7 +3,6 @@ layout: default
 title:  "Sliding Window Intro"
 categories: algos
 author: lazydeveloper
-permalink: /slidingwindow
 ---
 
 sliding window
