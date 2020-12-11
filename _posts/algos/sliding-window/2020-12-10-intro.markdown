@@ -1,9 +1,9 @@
 ---
 layout: default
 title:  "Sliding Window Intro"
-categories: algos,
+categories: algos
 author: lazydeveloper
-permalink: /sliding-window-intro
+permalink: /slidingwindow
 ---
 
 sliding window
