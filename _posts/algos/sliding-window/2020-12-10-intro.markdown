@@ -1,0 +1,9 @@
+---
+layout: default
+title:  "Sliding Window Intro"
+categories: algos,
+author: lazydeveloper
+permalink: /sliding-window-intro
+---
+
+sliding window
