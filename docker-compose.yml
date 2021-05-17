@@ -1,0 +1,8 @@
+jekyll:
+  image: jekyll/jekyll:4.0.1
+  command: jekyll serve --livereload --drafts
+  ports:
+    - 4001:4000
+    - 35729:35729
+  volumes:
+    - .:/srv/jekyll

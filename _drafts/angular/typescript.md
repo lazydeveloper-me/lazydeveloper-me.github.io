@@ -1,0 +1,4 @@
+- Install typescript globally
+```sh
+
+```
