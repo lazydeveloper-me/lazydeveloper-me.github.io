@@ -1,8 +1,0 @@
----
-layout: default
-title:  "Sliding Window Intro"
-categories: algos
-author: lazydeveloper
----
-
-sliding window

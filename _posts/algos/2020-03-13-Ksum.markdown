@@ -1,9 +1,0 @@
----
-layout: default
-title:  "K sum"
-categories: algos
-author: lazydeveloper
-permalink: /testt
----
-
-sdfds
